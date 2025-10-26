@@ -24,6 +24,10 @@ defineProps({
     type: Boolean,
     default: false
   },
+  icon: {
+    type: String,
+    default: ''
+  },
   circle: {
     type: Boolean,
     default: false
