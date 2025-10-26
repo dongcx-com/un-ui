@@ -23,6 +23,10 @@ defineProps({
   plain: {
     type: Boolean,
     default: false
+  },
+  circle: {
+    type: Boolean,
+    default: false
   }
 })
 </script>
