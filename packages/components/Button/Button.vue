@@ -15,6 +15,10 @@ defineProps({
   disabled: {
     type: Boolean,
     default: false
+  },
+  round: {
+    type: Boolean,
+    default: false
   }
 })
 </script>
