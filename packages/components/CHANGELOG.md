@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.0.5 (2025-10-26)</small>
+
+* fix: defineProps for Button ([f1e2474](https://github.com/dongcx-com/un-ui/commit/f1e2474))
+
+
+
+
+
 ## <small>1.0.4 (2025-10-26)</small>
 
 * fix: defineProps for Button ([d8f9a56](https://github.com/dongcx-com/un-ui/commit/d8f9a56))
