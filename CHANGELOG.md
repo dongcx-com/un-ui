@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.0.8 (2025-10-26)</small>
+
+* fix: - schema.json ([5f70950](https://github.com/dongcx-com/un-ui/commit/5f70950))
+* fix: + conventional-commits-schema.json ([30ce777](https://github.com/dongcx-com/un-ui/commit/30ce777))
+* fix: +lerna schema ([9689e58](https://github.com/dongcx-com/un-ui/commit/9689e58))
+* fix: lerna.json ([91155fc](https://github.com/dongcx-com/un-ui/commit/91155fc))
+
+
+
+
+
 ## <small>1.0.7 (2025-10-26)</small>
 
 * fix: defineProps for Button ([ad538e5](https://github.com/dongcx-com/un-ui/commit/ad538e5))

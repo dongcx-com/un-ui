@@ -1,6 +1,6 @@
 {
   "$schema": "conventional-commits-schema.json",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "npmClient": "pnpm",
   "packages": [
     "packages/*"
