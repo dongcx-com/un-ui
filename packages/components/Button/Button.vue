@@ -16,6 +16,10 @@ defineProps({
     type: Boolean,
     default: false
   },
+  round: {
+    type: Boolean,
+    default: false
+  },
   plain: {
     type: Boolean,
     default: false
