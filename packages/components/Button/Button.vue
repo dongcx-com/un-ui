@@ -5,7 +5,7 @@ defineOptions({
 </script>
 
 <template>
-  <button style="background-color: blue;color: tomato;">This is Button !</button>
+  <button style="background-color: blue;color: tomato;">This is Button</button>
 </template>
 
 <style lang='scss' scoped>
