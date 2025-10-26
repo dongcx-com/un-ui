@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.0.11 (2025-10-26)</small>
+
+* fix: + lerna-schema.json ([e857b50](https://github.com/dongcx-com/un-ui/commit/e857b50))
+
+
+
+
+
 ## <small>1.0.10 (2025-10-26)</small>
 
 * fix: + lerna-schema.json ([12eebce](https://github.com/dongcx-com/un-ui/commit/12eebce))
