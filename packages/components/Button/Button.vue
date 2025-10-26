@@ -2,6 +2,13 @@
 defineOptions({
   name: 'UnButton'
 })
+
+defineProps({
+  type: {
+    type: String,
+    default: 'default'
+  }
+})
 </script>
 
 <template>
