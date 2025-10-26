@@ -11,6 +11,10 @@ defineProps({
   size: {
     type: String,
     default: 'default'
+  },
+  disabled: {
+    type: Boolean,
+    default: false
   }
 })
 </script>
