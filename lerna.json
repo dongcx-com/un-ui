@@ -1,5 +1,5 @@
 {
-  "$schema": "conventional-commits-schema.json",
+  "$schema": "lerna-schema.json",
   "version": "1.0.8",
   "npmClient": "pnpm",
   "packages": [

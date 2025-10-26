@@ -27,6 +27,10 @@ defineProps({
   circle: {
     type: Boolean,
     default: false
+  },
+  loading: {
+    type: Boolean,
+    default: false
   }
 })
 </script>
