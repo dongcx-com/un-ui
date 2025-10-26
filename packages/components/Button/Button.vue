@@ -7,6 +7,10 @@ defineProps({
   type: {
     type: String,
     default: 'default'
+  },
+  size: {
+    type: String,
+    default: 'default'
   }
 })
 </script>
