@@ -1,0 +1,18 @@
+name: 'uses composite-actions'
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Run Lint And Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v5
+      
+      - name: Run composite-actions
+        uses: ./.github/actions/composite-actions

@@ -1,0 +1,19 @@
+name: 'reusable-workflow'
+
+on:
+  workflow_call:
+
+jobs:
+  test:
+    name: Run Lint And Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v5
+
+      - name: Setup Node & pnpm and install dependencies
+        uses: ./.github/workflows/composite-actions.yaml
+      
+      - name: Run Tests
+        run: pnpm test

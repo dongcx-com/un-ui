@@ -1,4 +1,3 @@
-import { P } from "vitest/dist/reporters-P7C2ytIv.js";
 import type { Plugin, App } from "vue";
 import {each} from "lodash-es"
 

@@ -4,6 +4,6 @@ import '@un-ui/theme/index.css'
 
 const installer = makeInstaller(components)
 
-export * from '@un-ui/components'
+export * from '../components'
 
 export default installer

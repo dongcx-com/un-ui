@@ -8,7 +8,9 @@
     "dev:docs": "pnpm --filter @un-ui/docs dev",
     "build:docs": "pnpm --filter @un-ui/docs build",
     "test": "echo \"test ok\" && exit 0",
-    "changed": "dotenv -e .env.local lerna version --conventional-commits --create-release github --yes"
+    "changed": "dotenv -e .env.local lerna version --conventional-commits --create-release github --yes",
+    "changed2": "dotenv -e .env.local lerna version --conventional-commits"
+
   },
   "keywords": [],
   "author": "",
